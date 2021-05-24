@@ -15,12 +15,12 @@
  About me:<br>
   Hello my name is Saulo, 30 years old and live in Brazil / São Paulo. 
   
-  Games:
-    - LOL
-    - RTS games
+  Games:<br>
+    - LOL<br>
+    - RTS games<br>
     - RetroGames (SNES is my favorite console <3)
     
-   Pets:
+   Pets:<br>
     - Dog named Felipe Roberto 🐶
     
    Music:
