@@ -23,7 +23,7 @@
    Pets:<br>
     - Dog named Felipe Roberto 🐶
     
-   Music:
+   Music:<br>
     - Almost all kinds
     
         
