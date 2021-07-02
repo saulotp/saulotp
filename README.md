@@ -1,16 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulotp&label=Profile%20views&color=0e75b6&style=flat" alt="saulotp" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulotp&show_icons=true&locale=en&layout=compact" alt="saulotp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saulotp&show_icons=true&locale=en" alt="saulotp" /></p>
 
 <p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
-
-</samp>
-
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 </p>
@@ -62,6 +52,9 @@
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulotp&label=Profile%20views&color=0e75b6&style=flat" alt="saulotp" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulotp&show_icons=true&locale=en&layout=compact" alt="saulotp" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saulotp&show_icons=true&locale=en" alt="saulotp" /></p>
 
 
