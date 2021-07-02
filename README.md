@@ -57,11 +57,5 @@
 
 
 
-<a href="https://github.com/saulotp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulotp8&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulotp&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saulotp&show_icons=true&locale=en" alt="saulotp" /></p>
 
