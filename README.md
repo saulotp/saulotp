@@ -56,6 +56,6 @@
 </p>
 
 
-
+<p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saulotp&show_icons=true&locale=en" alt="saulotp" /></p>
-
+</p>
