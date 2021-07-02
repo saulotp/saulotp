@@ -5,7 +5,6 @@
 
 
 
-About me:
 
 => ADS Student for love<br>
 => Ph.D Student in oncology area - Yes, I'm crazy ¯\(°_o)/¯ 
