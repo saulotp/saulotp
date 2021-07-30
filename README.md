@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://media.giphy.com/media/2tSMdSUTtrrrCwD5VK/giphy.gif" width="200"/>
 
 </p>
 <br>
