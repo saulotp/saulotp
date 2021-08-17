@@ -60,3 +60,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulotp&show_icons=true&locale=en" alt="saulotp" />
 </p>
 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
