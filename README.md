@@ -16,6 +16,7 @@
   - HTML/CSS/JS 🤩
 
 => Tech Lover 💻
+  -Cloud <3
 
 => Data Science enthusiast 📊
   - Learnig Numpy, pandas, matplotlib (repositories soon)
